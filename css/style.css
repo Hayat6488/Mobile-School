@@ -1,0 +1,9 @@
+.border-reg {
+    border: 2px solid #289BDE;
+    border-radius: 6px;
+}
+
+.text-reg {
+    color: #289BDE;
+    background-color: white;
+}

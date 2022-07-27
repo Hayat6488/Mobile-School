@@ -7,3 +7,23 @@
     color: #289BDE;
     background-color: white;
 }
+
+
+.get-started {
+    background-color: #289BDE;
+}
+
+
+@media screen and (max-width: 576px) {
+    .mobi-slider h1 {
+        font-size: medium;
+    }
+
+    .mobi-slider p {
+        font-size: small;
+    }
+
+    .get-started {
+        width: auto;
+    }
+}

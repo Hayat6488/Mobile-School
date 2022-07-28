@@ -22,6 +22,11 @@ body{
     height: 40px;
 }
 
+.reg-button-2{
+    width: 250px;
+    height: 40px;
+}
+
 .fa-star{
     color: rgb(246, 255, 78);
 }

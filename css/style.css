@@ -33,8 +33,22 @@ body{
     border: 1px solid #E8E8E8;
 }
 
-
 /* Responsive Customisation */
+
+
+@media screen and (min-width: 992px) {
+    .course-border{
+        width: 49%;
+    }
+    
+}
+
+@media screen and (min-width: 577px) and (max-width: 768px) {
+    .course-thumbnail{
+        width: 100%;
+    }
+    
+}
 
 @media screen and (max-width: 576px) {
     .mobi-slider h1 {
@@ -48,4 +62,9 @@ body{
     .get-started {
         width: auto;
     }
+
+    .course-thumbnail{
+        width: 100%;
+    }
 }
+

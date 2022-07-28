@@ -22,6 +22,10 @@ body{
     height: 40px;
 }
 
+.fa-star{
+    color: rgb(246, 255, 78);
+}
+
 
 .get-started {
     background-color: #289BDE;

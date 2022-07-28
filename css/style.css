@@ -12,6 +12,16 @@ body{
     background-color: white;
 }
 
+.reg-button{
+    width: 150px;
+    height: 40px;
+}
+
+.reg-button-1{
+    width: 170px;
+    height: 40px;
+}
+
 
 .get-started {
     background-color: #289BDE;

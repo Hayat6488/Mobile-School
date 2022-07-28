@@ -33,15 +33,20 @@ body{
     border: 1px solid #E8E8E8;
 }
 
+.about-us{
+    background-color: #F4FAFD;
+}
+
 /* Responsive Customisation */
 
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 993px) {
     .course-border{
         width: 49%;
     }
     
 }
+
 
 @media screen and (min-width: 577px) and (max-width: 768px) {
     .course-thumbnail{
